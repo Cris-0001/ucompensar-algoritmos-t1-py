@@ -4,5 +4,4 @@ Taller de algoritmos programas python
 
 ### Este trabajo fue realizado por:
 
-Jonathan Henry Mariño Cruz 
-Cristhian Ricardo Sepulveda Montaño
+Jonathan Henry Mariño Cruz y Cristhian Ricardo Sepulveda Montaño
